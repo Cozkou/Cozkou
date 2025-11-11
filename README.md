@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Cosmin Calugaru</h1>
 <h3 align="center">Builder. Hacker. Love making tools that solve niche problems.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cosm1n&label=Profile%20views&color=0e75b6&style=flat" alt="cosm1n" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cozkou&label=Profile%20views&color=0e75b6&style=flat" alt="cozkou" /> </p>
 
 - 🔭 I’m currently working on [Builder's Brew. A tight-knit student focused community.](https://www.buildersbrew.co)
 
 - 🌱 I’m currently learning **Mobile App development. React Native & Expo Go.**
 
-- 👨‍💻 All of my projects are available at [COMING SOON.](COMING SOON.)
-
 - 📫 How to reach me **https://www.linkedin.com/in/cosmincal/**
 
-- ⚡ Fun fact **If I'm not building, I'm probably at a Hackathon**
+- ⚡ Fun fact: **If I'm not building, I'm probably at a Hackathon**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
